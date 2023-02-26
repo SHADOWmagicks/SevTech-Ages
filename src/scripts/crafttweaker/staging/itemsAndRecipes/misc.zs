@@ -33,7 +33,6 @@ static hiddenItems as IIngredient[] = [
 	<rustic:fertile_soil:0>,
 	<scannable:module_structure:0>,
 	<sev_tweaks_npc:golden_ladder_of_ascension>,
-	<totemic:medicine_bag:0>,
 	<twilightforest:ore_map_empty:0>
 ];
 
